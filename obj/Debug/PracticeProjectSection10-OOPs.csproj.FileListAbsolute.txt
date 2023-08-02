@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProjectSection10-OOPs\PracticeProjectSection10-OOPs\bin\Debug\PracticeProjectSection10-OOPs.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProjectSection10-OOPs\PracticeProjectSection10-OOPs\bin\Debug\PracticeProjectSection10-OOPs.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProjectSection10-OOPs\PracticeProjectSection10-OOPs\bin\Debug\PracticeProjectSection10-OOPs.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProjectSection10-OOPs\PracticeProjectSection10-OOPs\obj\Debug\PracticeProjectSection10-OOPs.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProjectSection10-OOPs\PracticeProjectSection10-OOPs\obj\Debug\PracticeProjectSection10-OOPs.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProjectSection10-OOPs\PracticeProjectSection10-OOPs\obj\Debug\PracticeProjectSection10-OOPs.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProjectSection10-OOPs\PracticeProjectSection10-OOPs\obj\Debug\PracticeProjectSection10-OOPs.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProjectSection10-OOPs\PracticeProjectSection10-OOPs\obj\Debug\PracticeProjectSection10-OOPs.pdb
